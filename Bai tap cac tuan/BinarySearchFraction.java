@@ -1,3 +1,5 @@
+
+// Week 2
 public class BinarySearchFraction {
 
     static boolean lessThan(double target, double x) {
